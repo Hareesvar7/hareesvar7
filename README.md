@@ -6,17 +6,7 @@
 
 <p><a href="https://hareesvar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/hareesvar7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 
-<!--
-**krishnakiriti04/krishnakiriti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!-- 
-- Passionate web developer with experience in React Node MongoDB.
-- 🔭 I’m currently working on ... Ecommerce website using React, Redux, Commerce Js and Firebase.
-- 🌱 I’m currently learning ... Firebase
-- 👯 I’m looking to collaborate on ...MERN and MEAN Stack applications 
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/krishna-kireeti-mamidi/) -->
-<h2> <img src="https://cdn-icons-png.flaticon.com/512/921/921591.png" alt="stats" width="25" height="25" />  My Github stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=krishnakiriti04&show_icons=true&count_private=true&theme=radical&hide=contribs,issues" alt="krishnakiriti04" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakiriti04&layout=compact&hide=python" alt="krishnakiriti04" />
+
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
