@@ -32,6 +32,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnakiriti04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
