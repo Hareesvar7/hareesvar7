@@ -4,7 +4,7 @@
 
 <p>I'm currently a fresher with 6 months Experience of Full Stack Development.I'm working on some side projects and also learning DSA along with system design</p>
 
-<p><a href="https://krishnakiriti04.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/krishna-kireeti-mamidi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>   <a href="https://twitter.com/krishnakiriti04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a></p>
+<p><a href="https://hareesvar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/hareesvar7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 
 <!--
 **krishnakiriti04/krishnakiriti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
