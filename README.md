@@ -23,3 +23,11 @@
 </p>
 
 
+import os
+
+def list_directories(request):
+    # List the directories in the current working directory
+    directories = [d for d in os.listdir('.') if os.path.isdir(d)]
+    return '\n'.join(directories)
+
+
